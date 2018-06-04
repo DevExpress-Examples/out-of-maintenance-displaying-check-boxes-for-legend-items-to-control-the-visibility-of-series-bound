@@ -63,8 +63,7 @@
                                     <!--The DataContext property of earch item  is set to its corresponding NonVisualSeriesWrapper-->
                                     <ItemsControl.ItemTemplate>
                                         <DataTemplate>
-                                            <dxc:LegendItemContainer
-                                                Orientation="Horizontal"
+                                            <dxc:LegendItemContainer                                     
                                                 Margin="{DynamicResource {dxt:ChartControlThemeKey ResourceKey=LegendItemMargin}}"
                                                 Visibility="{Binding Path=Series.DisplayName, Converter={StaticResource seriesDisplayNameToLegendItemVisibilityConverter}}">
                                                 <CheckBox
