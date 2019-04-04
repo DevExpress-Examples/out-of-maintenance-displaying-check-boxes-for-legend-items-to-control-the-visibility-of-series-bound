@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [DataItem.cs](./CS/DataItem.cs) (VB: [DataItem.vb](./VB/DataItem.vb))
-* [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
 * [SeriesDisplayNameToLegendItemVisibilityConverter.cs](./CS/SeriesDisplayNameToLegendItemVisibilityConverter.cs) (VB: [SeriesDisplayNameToLegendItemVisibilityConverter.vb](./VB/SeriesDisplayNameToLegendItemVisibilityConverter.vb))
 * [SeriesNonVisualWrapper.cs](./CS/SeriesNonVisualWrapper.cs) (VB: [SeriesNonVisualWrapper.vb](./VB/SeriesNonVisualWrapper.vb))
