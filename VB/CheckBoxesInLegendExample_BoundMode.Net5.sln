@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 16
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CheckBoxesInLegendExample_BoundMode", "CheckBoxesInLegendExample_BoundMode.Net5.vbproj", "{7E51D67B-1533-4844-B3DF-56A6BA82DF47}"
 EndProject
